@@ -6,3 +6,5 @@ Este repositorio contiene los ejercicios resueltos del libro
 - [1: Ecuacion de segundo grado](./EcuacionSegundoGrado/) Descripción: Este ejercicio contiene la solucion en Java para resolver una ecuacion de segundo grado.
 - [2: Area de un circulo](./AreaCirculo/) Descripción: Este ejercicio contiene la solucion en Java para calcular el area de un circulo dado su radio.
 - [3: Longitud de una circunferencia](./LongitudCircunferencia/) Descripción: Este ejercicio contiene la solucion en Java para calcular la longitud de una circunferencia dado su radio.
+- [4: Validar si dos numeros son iguales](./NumerosIguales/) Descripción: Este ejercicio contiene la solucion en Java para calcular, dado dos numeros si son iguales o no.
+ 
