@@ -1,13 +1,13 @@
- public class Multiplo {
+public class Multiplo {
     public static void main(String[] args) {
-        int num;
+        int n1,n2;
         System.out.print("Introduce un número: ");
-        num=Entrada.entero();
-        
-        if( num < 0)
-            System.out.println("Negativo");
+        n1=Entrada.entero();
+        System.out.print("Introduce otro número: ");
+        n2=Entrada.entero();
+        if(n1%n2==0)
+            System.out.println("Son múltiplos");
         else
-            // suponemos que el 0 es positivo.
-            System.out.println("Positivo");
+            System.out.println("No son múltiplos");
     }
  }
