@@ -8,3 +8,4 @@ Este repositorio contiene los ejercicios resueltos del libro
 - [3: Longitud de una circunferencia](./LongitudCircunferencia/) Descripción: Este ejercicio contiene la solucion en Java para calcular la longitud de una circunferencia dado su radio.
 - [4: Validar si dos numeros son iguales](./NumerosIguales/) Descripción: Este ejercicio contiene la solucion en Java para calcular, dado dos numeros si son iguales o no.
 - [5: Validar si un numero es positivo o negativo](./PositivoNegativo/) Descripción: Este ejercicio contiene la solucion en Java para calcular, dado un numero si es positivo o negativo.
+- [6: Validar si un numero es multiplo del otro](./Multiplo/) Descripción: Este ejercicio contiene la solucion en Java para calcular, dado dos numeros si uno es multiplo de otro.
