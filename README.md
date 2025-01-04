@@ -10,3 +10,5 @@ Este repositorio contiene los ejercicios resueltos del libro
 - [5: Validar si un numero es positivo o negativo](./PositivoNegativo/) Descripción: Este ejercicio contiene la solucion en Java para calcular, dado un numero si es positivo o negativo.
 - [6: Validar si un numero es multiplo del otro](./Multiplos/) Descripción: Este ejercicio contiene la solucion en Java para calcular, dado dos numeros si uno es multiplo de otro.
 - [7: Validar si un numero es mayor](./Multiplos/) Descripción: Este ejercicio contiene la solucion en Java para calcular, dado dos numeros cual es el mayor.
+
+more examples
